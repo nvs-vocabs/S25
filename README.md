@@ -9,7 +9,7 @@ S25 is made of the biological name (linked to authoritative taxonomic registries
 
 Quick link to the biological entity semantic model component repositories
 
-| Stage | Gender | Size | Subcomponent | Shape | Colour | Subgroup |
+| Stage | Sex | Size | Subcomponent | Shape | Colour | Subgroup |
 |-------|-------|-------|-------------|-------|-------|------|
 | [S11](https://github.com/nvs-vocabs/S11/) | [S10](https://github.com/nvs-vocabs/S10/) | [S09](https://github.com/nvs-vocabs/S09/) | [S12](https://github.com/nvs-vocabs/S12/) |[S14](https://github.com/nvs-vocabs/S14/)|[S15](https://github.com/nvs-vocabs/S15/) | [S13](https://github.com/nvs-vocabs/S13/) |
 
