@@ -17,7 +17,7 @@ Below are quicklinks to the github repos and the BODC Search UI for the S25 term
 
 Link type | Taxon | Stage | Sex | Size | Subcomponent | Shape | Colour | Subgroup
 -- | -- | -- | -- | -- | -- | -- | -- | --
-GitHub repos|_**name**_| [S11](https://github.com/nvs-vocabs/S11/) | [S10](https://github.com/nvs-vocabs/S10/) | [S09](https://github.com/nvs-vocabs/S09/) | [S12](https://github.com/nvs-vocabs/S12/) |[S14](https://github.com/nvs-vocabs/S14/)|[S15](https://github.com/nvs-vocabs/S15/) | [S13](https://github.com/nvs-vocabs/S13/) |
+GitHub repos| [S25](https://github.com/nvs-vocabs/S25/)| [S11](https://github.com/nvs-vocabs/S11/) | [S10](https://github.com/nvs-vocabs/S10/) | [S09](https://github.com/nvs-vocabs/S09/) | [S12](https://github.com/nvs-vocabs/S12/) |[S14](https://github.com/nvs-vocabs/S14/)|[S15](https://github.com/nvs-vocabs/S15/) | [S13](https://github.com/nvs-vocabs/S13/) |
 Search UI | [S25](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/S25/)| [S11](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/S11/)|[S10](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/S10/)|[S09](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/S09/)|[S12](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/S12/)| [S14](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/S14/)| [S15](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/S15/)| [S13](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_search/S13/)
 
 Requests for new terms can be made directly in the relevant repository or via [BODC Vocabulary Builder](https://www.bodc.ac.uk/resources/vocabularies/vocabulary_builder/bioentrf/) upon login  
