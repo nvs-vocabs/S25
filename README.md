@@ -7,7 +7,7 @@ Search interface: https://www.bodc.ac.uk/resources/vocabularies/vocabulary_searc
 
 S25 is made of the biological name (linked to authoritative taxonomic registries when a match is possible) combined with, when necessary,  attributes that further describe the biological entity. There are 7 kinds of attributes, all defined in their specific controlled vocabulary. This includes terms related to the development stage ([S11](https://vocab.nerc.ac.uk/collection/S11/current/)), biological sex category ([S10](https://vocab.nerc.ac.uk/collection/S10/current/)), size ([S09](https://vocab.nerc.ac.uk/collection/S09/current/)), subcomponent/organ/body part ([S12](https://vocab.nerc.ac.uk/collection/S12/current/)), shape ([S14](https://vocab.nerc.ac.uk/collection/S14/current/)), colour ([S15](https://vocab.nerc.ac.uk/collection/S15/current/)) or any other kind of subgroups defined by the analyst ([S13](https://vocab.nerc.ac.uk/collection/S13/current/)).
 
-So S25 is made of the following combination of terms:
+So, in summary, he biological entity defined in S25 is made of the following combination of terms (with all but the name being optional):
 
 Taxon | Stage | Sex | Size | Subcomponent | Shape | Colour | Subgroup |
 ---------|-------|-------|-------|-------------|-------|-------|------|
